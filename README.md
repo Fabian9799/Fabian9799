@@ -5,4 +5,5 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabian9799" alt="fabian9799" />
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fabian9799&theme=dark&show_icons=true" alt="fabian9799" /></p>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fabian9799&theme=dark&show_icons=true" alt="fabian9799" /></p>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabian9799&theme=dark&layout=compact" />
