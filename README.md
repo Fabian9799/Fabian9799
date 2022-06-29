@@ -7,4 +7,4 @@
   
 [![Discord Presence](https://lanyard.cnrad.dev/api/135695516062187521)](https://discord.com/users/135695516062187521)
   
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabian9799&theme=dark&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabian9799&theme=dracula&layout=default" />
