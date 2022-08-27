@@ -5,6 +5,6 @@
   
  [![Fabian's github activity graph](https://activity-graph.herokuapp.com/graph?username=Fabian9799&bg_color=252732&color=ff7ac6&line=bf95f9&point=bf95f9)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
-[![Discord Presence](https://rest.flaced.de/discord/banner/135695516062187521?bday=2022/07/09&theme=dracula)](https://discord.com/users/135695516062187521)
+[![Discord Presence](https://rest.flaced.de/discord/banner/135695516062187521?bday=2022/07/09&theme=dracula&radius=4.5)](https://discord.com/users/135695516062187521)
   
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabian9799&theme=dracula&layout=default" />
